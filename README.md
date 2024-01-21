@@ -23,3 +23,5 @@ Future Improvement:
 1. Implement ML algorithm & UI features for users to input anime they like so that recommendations can be more customized
 2. Implement feature that scrapes users MyAnimeList/AniChart/etc profile and automatically gets the anime they've watched for more customized recommendations
 3. Implement feature for app to work in different languages
+
+A collaboration between @OscarPortillo37 and @saahirN
