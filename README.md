@@ -2,16 +2,18 @@
 An anime recommender site that takes data from multiple sources (e.g. AniChart, MyAnimeList, Reddit) and provides good recommendations.
 TODO:
 1. Learning Phase
+
    (i)    Learn MongoDB
    (ii)   Learn React.js
    (iii)  Learn Flask/Django
-2. Data Acquisition
+3. Data Acquisition
+
    (i)  Create webscrapers for AniChart, MyAnimeList, AnimePlanet, and AniList
    (ii) Mine data from Twitter and Reddit using their APIs
-3. Consolidate data onto MongoDB
-4. Create webapp using React.js & Flask/Django
-5. Create chatbot using MongoDB and ChatBase(?)
-6. Connect chatbot to website
+5. Consolidate data onto MongoDB
+6. Create webapp using React.js & Flask/Django
+7. Create chatbot using MongoDB and ChatBase(?)
+8. Connect chatbot to website
 
 Future Improvement:
 1. Implement ML algorithm & UI features for users to input anime they like so that recommendations can be more customized
