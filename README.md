@@ -24,4 +24,4 @@ Future Improvement:
 2. Implement feature that scrapes users MyAnimeList/AniChart/etc profile and automatically gets the anime they've watched for more customized recommendations
 3. Implement feature for app to work in different languages
 
-A collaboration between @OscarPortillo37 and @saahirN
+A collaboration between OscarPortillo37 and saahirN
