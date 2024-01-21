@@ -4,12 +4,16 @@ TODO:
 1. Learning Phase
 
    (i)    Learn MongoDB
+
    (ii)   Learn React.js
+
    (iii)  Learn Flask/Django
 3. Data Acquisition
 
    (i)  Create webscrapers for AniChart, MyAnimeList, AnimePlanet, and AniList
+
    (ii) Mine data from Twitter and Reddit using their APIs
+
 5. Consolidate data onto MongoDB
 6. Create webapp using React.js & Flask/Django
 7. Create chatbot using MongoDB and ChatBase(?)
